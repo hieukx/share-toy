@@ -1,0 +1,460 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "fullname": "Quản trị viên",
+      "phone": "0123456789",
+      "address": "Hà Nội"
+    },
+    {
+      "id": "2",
+      "username": "bequynh",
+      "password": "123456",
+      "fullname": "Bé Quỳnh",
+      "phone": "0987654321",
+      "address": "TP. Hồ Chí Minh"
+    },
+    {
+      "id": "3",
+      "username": "hien",
+      "fullname": "Nguyễn Văn Hiền",
+      "password": "hien123",
+      "phone": "0912345678",
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": "4",
+      "username": "linh",
+      "fullname": "Trần Thị Linh",
+      "password": "linh123",
+      "phone": "0934567890",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": "5",
+      "username": "cc",
+      "fullname": "cc",
+      "password": "123456",
+      "phone": "0333333333",
+      "address": "Đắk Lắk"
+    },
+    {
+      "id": "6",
+      "username": "vv",
+      "fullname": "vvvv",
+      "password": "123456",
+      "phone": "0900000002",
+      "address": "Vĩnh Phúc"
+    },
+    {
+      "id": "7",
+      "username": "ly",
+      "fullname": "ly xinh gái",
+      "password": "123456",
+      "phone": "0900000003",
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": "8",
+      "username": "hieu",
+      "fullname": "kim hieu",
+      "password": "123456",
+      "phone": "0900000004",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": "b543",
+      "username": "hieukaco",
+      "fullname": "kim xuân hiếu",
+      "password": "123456",
+      "phone": "0000000000",
+      "address": "Vĩnh Phúc"
+    },
+    {
+      "id": "dbf4",
+      "username": "qưertyuiop",
+      "fullname": "vvv",
+      "password": "qưertyuiop",
+      "phone": "",
+      "address": "Vĩnh Phúc"
+    },
+    {
+      "id": "99c2",
+      "username": "huyhieu",
+      "fullname": "Nguyen Huy Hieu",
+      "password": "huyhieu0209",
+      "phone": "0362923182",
+      "address": "Thanh Hóa"
+    }
+  ],
+  "toys": [
+    {
+      "id": "6338",
+      "name": "máy ảnh khỉ",
+      "image": "https://product.hstatic.net/200000696643/product/812xq4khadl._ac_sl1500__65bb4517e90f4a1f8e22d4aab66810ea_master.jpg",
+      "description": "new ",
+      "contact": "03987686666",
+      "ownerId": "5",
+      "isBorrowed": true,
+      "borrowedBy": "99c2"
+    },
+    {
+      "id": "62b1",
+      "name": "Bộ đồ chơi y tá",
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/403/846/products/22-5e01bb9f-2467-404d-a84a-edf5780497d1.jpg?v=1665593387350",
+      "description": "Hơi cũ",
+      "contact": "03987654321",
+      "ownerId": "6",
+      "isBorrowed": false,
+      "borrowedBy": ""
+    },
+    {
+      "id": "5aac",
+      "name": "khủng long cầu trượt",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lrb2x9pfdolga8",
+      "description": "Đường đua T-Rex 3 trong 1, Máy nuốt ô tô và Kho chứa",
+      "contact": "0398768699",
+      "ownerId": "6",
+      "isBorrowed": true,
+      "borrowedBy": "1"
+    },
+    {
+      "id": "516f",
+      "name": "cua",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFyLwLEoDAKZsrUSM_q9ie6oAMUvyNV-TkA&s",
+      "description": "cua",
+      "contact": "0398768699",
+      "ownerId": "dbf4",
+      "isBorrowed": false,
+      "borrowedBy": ""
+    },
+    {
+      "id": "6d99",
+      "name": "xe gì ko biết",
+      "image": "https://img.websosanh.vn/v2/users/review/images/1awtslhmwi0hz.jpg?compress=85",
+      "description": "nhỏ,mới nguyên",
+      "contact": "ko",
+      "ownerId": "5",
+      "isBorrowed": false
+    },
+    {
+      "id": "b31e",
+      "name": "xếp hình thẻ tetris",
+      "image": "https://product.hstatic.net/200000569615/product/z5417496615623_097d19a78c0e1a78d85821e8eb912be5_33b62980a1fd49b085faf54f684b0b81.jpg",
+      "description": "Đồ chơi trẻ em xếp hình thẻ tetris, trò chơi game xếp gạch rèn luyện trí thông minh montessori, lắp ráp",
+      "contact": "0999999999",
+      "ownerId": "b543",
+      "isBorrowed": false
+    },
+    {
+      "id": "142e",
+      "name": "Đâm hải tặc",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPlzx_Yy0XsAl5HwSSZ-XWaQm-3vvU_5BSg&s",
+      "description": "Thiết kế nhỏ gọn, dễ dàng mang theo\nMàu sắc bắt mắt, thu hút sự chú ý của trẻ\nPhát triển phản xạ nhanh nhạy\nTăng cường khả năng tập trung và quan sát",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": true,
+      "borrowedBy": "6"
+    },
+    {
+      "id": "6f00",
+      "name": "Con quay đồ chơi ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB3zpK2sTJxcyQiRlUkF9dbwqHKtPiKuvd6Q&s",
+      "description": "Đồ chơi con quay được làm từ nguyên liệu đồng, thép không gỉ, titan và nhựa nên giúp bé thỏa sức chơi mà không ảnh hưởng tới sức khỏe của bé.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false,
+      "borrowedBy": ""
+    },
+    {
+      "id": "286f",
+      "name": "Bộ đồ chơi nấu ăn",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-3-768x768.jpg",
+      "description": "Bộ đồ chơi nấu ăn gồm 45 món đồ dùng nhà bếp thu nhỏ như nồi, dĩa, chén, muỗng, tách, ấm, v.v. Được làm từ chất liệu nhựa cao cấp, không chứa chất độc hại, sản phẩm này rất an toàn cho trẻ em.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false,
+      "borrowedBy": ""
+    },
+    {
+      "id": "6e3d",
+      "name": "Đồ chơi sáng tạo cho bé Germany",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-4-768x768.jpg",
+      "description": "Chất liệu an toàn, đạt tiêu chuẩn châu Âu\nThiết kế đa dạng với nhiều hình khối và màu sắc\nPhát triển khả năng nhận biết màu sắc, hình dạng và số đếm\nKích thích tư duy logic và không gian",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false
+    },
+    {
+      "id": "168f",
+      "name": "Bộ đồ chơi bi lắc",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-5.jpg",
+      "description": "Bộ đồ chơi bi lắc mini là một trong những sản phẩm gây sốt trên thị trường đồ chơi trẻ em. Được làm chủ yếu từ gỗ và nhựa nguyên chất, sản phẩm này vừa bền đẹp vừa an toàn cho trẻ.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false
+    },
+    {
+      "id": "84fc",
+      "name": "Bộ 50 trái bóng nhựa màu sắc",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-6-768x768.jpg",
+      "description": "Bộ 50 trái bóng nhựa màu sắc là một sản phẩm đơn giản nhưng mang lại nhiều lợi ích cho sự phát triển của trẻ. Được sản xuất từ chất liệu nhựa cao cấp, không mùi và không chứa hóa chất độc hại, sản phẩm này đảm bảo an toàn tuyệt đối cho trẻ em.\n\nĐa dạng về màu sắc, giúp trẻ nhận biết và phân biệt màu sắc\n\nKích thước nhỏ gọn, phù hợp với tay nắm của trẻ",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": true,
+      "borrowedBy": "5"
+    },
+    {
+      "id": "4d34",
+      "name": "Đồ chơi câu cá cho bé",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-7-768x768.jpg",
+      "description": " Bộ đồ chơi được sản xuất từ nhựa cao cấp, với nam châm không gỉ khi tiếp xúc với nước và cần câu có thể điều chỉnh độ dài.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false
+    },
+    {
+      "id": "a50d",
+      "name": " Rubik",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-8-768x768.jpg",
+      "description": "Rubik là một trò chơi trí tuệ kinh điển, phù hợp với mọi lứa tuổi. Sản phẩm có nhiều kiểu dáng, kích cỡ và màu sắc khác nhau, đáp ứng nhu cầu của nhiều đối tượng người chơi.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false
+    },
+    {
+      "id": "faec",
+      "name": "Xe trượt Scooter 3 bánh",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-9-768x768.jpg",
+      "description": "Được sản xuất từ khung nhôm và nhựa nguyên sinh, xe có khả năng chịu lực tốt và đảm bảo an toàn cho người sử dụng.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false
+    },
+    {
+      "id": "da36",
+      "name": "Đồ chơi chó cắn tay",
+      "image": "https://tcorder.vn/wp-content/uploads/2020/10/do-choi-tre-em-ban-chay-nhat-tiki-10.jpg",
+      "description": "Sản phẩm được làm từ nhựa cứng cao cấp, không có góc nhọn, đảm bảo an toàn khi sử dụng.",
+      "contact": "0342298116",
+      "ownerId": "b543",
+      "isBorrowed": false
+    }
+  ],
+  "requests": [
+    {
+      "id": "7321",
+      "toyId": "62b1",
+      "toyName": "Bộ đồ chơi y tá",
+      "ownerId": "6",
+      "requesterId": "5",
+      "borrowDays": "6",
+      "status": "accepted",
+      "createdAt": "2025-07-12T15:59:03.010Z"
+    },
+    {
+      "id": "1abe",
+      "toyId": "5aac",
+      "toyName": "khủng long cầu trượt",
+      "ownerId": "6",
+      "requesterId": "1",
+      "borrowDays": "7",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:03:28.124Z"
+    },
+    {
+      "id": "e6aa",
+      "toyId": "5aac",
+      "toyName": "khủng long cầu trượt",
+      "ownerId": "6",
+      "requesterId": "5",
+      "borrowDays": "3",
+      "status": "rejected",
+      "createdAt": "2025-07-12T16:03:44.435Z"
+    },
+    {
+      "id": "0d1d",
+      "toyId": "6f00",
+      "toyName": "Con quay đồ chơi ",
+      "ownerId": "b543",
+      "requesterId": "5",
+      "borrowDays": "8",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:12:07.916Z"
+    },
+    {
+      "id": "81eb",
+      "toyId": "6f00",
+      "toyName": "Con quay đồ chơi ",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "1",
+      "status": "rejected",
+      "createdAt": "2025-07-12T16:13:43.437Z",
+      "rejectReason": "Đã có người khác được duyệt"
+    },
+    {
+      "id": "58fc",
+      "toyId": "286f",
+      "toyName": "Bộ đồ chơi nấu ăn",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "2",
+      "status": "rejected",
+      "createdAt": "2025-07-12T16:13:49.499Z",
+      "rejectReason": "Số ngày mượn ngắn"
+    },
+    {
+      "id": "cf89",
+      "toyId": "62b1",
+      "toyName": "Bộ đồ chơi y tá",
+      "ownerId": "6",
+      "requesterId": "5",
+      "borrowDays": "5",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:36:51.590Z"
+    },
+    {
+      "id": "ae43",
+      "toyId": "6f00",
+      "toyName": "Con quay đồ chơi ",
+      "ownerId": "b543",
+      "requesterId": "5",
+      "borrowDays": "11",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:40:16.826Z"
+    },
+    {
+      "id": "ab47",
+      "toyId": "286f",
+      "toyName": "Bộ đồ chơi nấu ăn",
+      "ownerId": "b543",
+      "requesterId": "5",
+      "borrowDays": "1",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:40:21.409Z"
+    },
+    {
+      "id": "648b",
+      "toyId": "142e",
+      "toyName": "Đâm hải tặc",
+      "ownerId": "b543",
+      "requesterId": "5",
+      "borrowDays": "2",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:40:25.656Z"
+    },
+    {
+      "id": "22c3",
+      "toyId": "516f",
+      "toyName": "cua",
+      "ownerId": "dbf4",
+      "requesterId": "5",
+      "borrowDays": "4",
+      "status": "pending",
+      "createdAt": "2025-07-12T16:50:26.928Z"
+    },
+    {
+      "id": "3cff",
+      "toyId": "84fc",
+      "toyName": "Bộ 50 trái bóng nhựa màu sắc",
+      "ownerId": "b543",
+      "requesterId": "5",
+      "borrowDays": "2",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:50:34.212Z"
+    },
+    {
+      "id": "0eef",
+      "toyId": "6f00",
+      "toyName": "Con quay đồ chơi ",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "2",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:54:23.015Z"
+    },
+    {
+      "id": "234d",
+      "toyId": "286f",
+      "toyName": "Bộ đồ chơi nấu ăn",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "1",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:54:27.502Z"
+    },
+    {
+      "id": "b7ce",
+      "toyId": "142e",
+      "toyName": "Đâm hải tặc",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "4",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:56:19.207Z"
+    },
+    {
+      "id": "aae8",
+      "toyId": "286f",
+      "toyName": "Bộ đồ chơi nấu ăn",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "3",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:56:24.151Z"
+    },
+    {
+      "id": "aeaa",
+      "toyId": "6f00",
+      "toyName": "Con quay đồ chơi ",
+      "ownerId": "b543",
+      "requesterId": "6",
+      "borrowDays": "3",
+      "status": "accepted",
+      "createdAt": "2025-07-12T16:56:28.552Z"
+    },
+    {
+      "id": "eda8",
+      "toyId": "62b1",
+      "toyName": "Bộ đồ chơi y tá",
+      "ownerId": "6",
+      "requesterId": "5",
+      "borrowDays": "2",
+      "status": "pending",
+      "createdAt": "2025-07-13T01:40:53.416Z"
+    },
+    {
+      "id": "59e5",
+      "toyId": "6338",
+      "toyName": "máy ảnh khỉ",
+      "ownerId": "5",
+      "requesterId": "99c2",
+      "borrowDays": "12",
+      "status": "accepted",
+      "createdAt": "2025-07-16T04:03:04.596Z"
+    }
+  ],
+  "borrowings": [
+    {
+      "id": "1",
+      "toyId": "2",
+      "borrowerId": "1",
+      "status": "borrowing"
+    },
+    {
+      "id": "2",
+      "toyId": "1",
+      "borrowerId": "2",
+      "status": "returned"
+    },
+    {
+      "id": "3",
+      "toyId": "4",
+      "borrowerId": "1",
+      "status": "borrowing"
+    }
+  ]
+}
